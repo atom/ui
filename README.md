@@ -11,7 +11,6 @@ Open the Styleguide (`cmd-ctrl-shift-g`) to see them in action.
 - Button Group
 - Buttons
 - Code
-- Cursors
 - Forms
 - Icons
 - Links
