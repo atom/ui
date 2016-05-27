@@ -1,0 +1,10 @@
+{
+  "name": "ui",
+  "version": "0.0.0",
+  "description": "Atom's UI components",
+  "repository": "https://github.com/atom/ui",
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  }
+}
